@@ -1,4 +1,4 @@
-# Задача по написанию тест-кейсов:
+# №1 Задача по написанию тест-кейсов:
 
 ## УСПЕШНЫЕ СЦЕНАРИИ
 
@@ -484,5 +484,5 @@
 **Ожидаемый результат:**
 - Сообщение о завершении сессии
 
-# Задача Playwright:
-[ui](https://github.com/Checamaro/autotest-main-playwright)
+# №2 Задача Playwright:
+[ui-playwright-main-test](https://github.com/Checamaro/autotest-main-playwright)
